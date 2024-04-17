@@ -1,0 +1,27 @@
+#first {
+    color: red;
+    background-color: antiquewhite;
+}
+
+#second {
+    background-color: aquamarine;
+    color: black;
+}
+
+#third {
+    background-color: aliceblue;
+    color: chartreuse;
+}
+
+.alpha {
+    font-size: large;
+    font-family: 'Lucida Sans';
+}
+
+.beta {
+    font-style: italic;
+}
+
+.p:hover{
+    font-family:monospace;
+}
