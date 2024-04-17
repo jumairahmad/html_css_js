@@ -1,0 +1,13 @@
+.box{
+
+    padding: 12px;
+
+    margin: 40px 30px 20px 10px;
+
+    /* border-color: brown; */
+    border-radius: 2px;
+
+    border-width: 10px;
+    
+    border:solid brown
+}
