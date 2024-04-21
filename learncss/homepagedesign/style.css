@@ -283,5 +283,6 @@ header {
     padding: 120px var(--padding-inline-section) 80px;
 }
 .cta-section p {
+    margin-top: 20px;
     color: white;
 }
