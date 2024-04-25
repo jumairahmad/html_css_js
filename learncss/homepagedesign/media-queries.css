@@ -1,0 +1,22 @@
+@media screen and (max-width:991px) {
+    
+    .nav-toggle{
+        display: block;
+        margin-right: 20px;
+    }
+    .nav-links{
+        display: none;
+    }
+ 
+    .example-area{
+        gap: 20px;
+    }
+    .example-card {
+        width:  48%;
+        height: 180px;
+    }
+
+    .cta-section{
+        padding-block: 80px;
+    }
+}
